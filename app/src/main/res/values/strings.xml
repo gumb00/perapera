@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main app stuff-->
+    <string name="app_name">perapera</string>
+
+    <!-- Scream activity -->
+    <string name="title_activity_scream">Scream</string>
+    <!-- Scream fragment -->
+    <string name="start_recording_button">Scream</string>
+    <string name="stop_recording_button">Stop</string>
+    <string name="start_listening_button">Listen</string>
+    <string name="stop_listening_button">Stop Listening</string>
+    <string name="edit_tags_field">What is your topic about...?</string>
+    <string name="submit_button">Submit</string>
+    <!-- MyScreams fragment -->
+    <string name="title_myScreams_fragment">My Screams</string>
+
+    <!-- Discover activity -->
+    <string name="title_activity_discover">Discover</string>
+    <!-- Discover fragment -->
+    <string name="random_button">Go random!</string>
+    <string name="repeat_button">Repeat!</string>
+    <string name="next_button">..neext</string>
+    <string name="replyButton">Answer!</string>
+    <!-- Search fragment -->
+    <string name="discover_section2">Search</string>
+    <string name="discover_section3">To be implemented?</string>
+
+    <!-- ShowScream activity -->
+    <string name="title_activity_show_scream">View Topic</string>
+    <string name="title">Headline will be shown here</string>
+    <string name="play_description">Play the scream</string>
+    <string name="record_button">Record</string>
+    <string name="post_button">Post</string>
+    <string name="shit">Shows a shit</string>
+
+    <!-- Action bar -->
+    <string name="action_settings">Settings</string>
+    <string name="action_discard">Discard</string>
+
+    <!-- Drawer -->
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string-array name="activities">
+        <item>Scream</item>
+        <item>Discover</item>
+    </string-array>
+    <string name="drawer_open">more</string>
+    <string name="drawer_close">close</string>
+</resources>
