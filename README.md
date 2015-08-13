@@ -1,5 +1,4 @@
 # perapera
-perapera - unfinished android university project
 
 A simple Android app that lets users post voice messages in a certain radius. This is still a work in progress.
 
